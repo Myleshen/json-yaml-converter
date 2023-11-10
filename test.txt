@@ -1,8 +1,0 @@
-key: value
-key2: [1234]
-key3:
-  key4:
-    a: z
-    b: y
-  key5: value5
-  key6: value6
